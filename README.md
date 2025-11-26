@@ -1,9 +1,27 @@
 # 📚 Data Structures & Algorithms (DSA)
 
 A collection of **Data Structures & Algorithms** solutions written in **Java**.  
-This repository is my personal DSA practice log, containing solutions from platforms such as **LeetCode**, **GeeksForGeeks**, and other interview problem sets.
+This repository is my personal DSA practice log, containing solutions from platforms such as **LeetCode**, **GeeksForGeeks**, and core interview problem sets.
 
-The main aim is to improve **problem-solving skills**, write **clean and optimized code**, and build strong foundational understanding of **core algorithmic concepts**.
+---
+
+## 📂 Project Structure
+
+All DSA implementations are organized inside the **src → com** package.  
+Within it, you will find folders categorized according to different DSA topics (Arrays, Strings, Trees, etc.) for easy navigation.
+
+src/
+└── com/
+├── arrays
+├── strings
+├── linkedlist
+├── stack
+├── queue
+├── tree
+├── bst
+├── heap
+├── greedy
+├── recursion
 
 ---
 
@@ -23,15 +41,6 @@ The main aim is to improve **problem-solving skills**, write **clean and optimiz
 
 ---
 
-## 🚀 Goals
-
-- Strengthen logic-building for coding interviews
-- Practice writing solutions with optimal complexity
-- Create clean, readable, modular code in **Java**
-- Track progress consistently
-
----
-
 ## 🛠 Language & Tools
 
 | Category | Details |
@@ -41,18 +50,11 @@ The main aim is to improve **problem-solving skills**, write **clean and optimiz
 
 ---
 
-## 📌 Problem Sources
-
-- **LeetCode**
-- **GeeksForGeeks**
-- **Interview Problem Sets**
-
----
-
 ## 👤 Author
 
 **Mayank Bansal**  
 🔗 LinkedIn — https://linkedin.com/in/mayank-bansal-cse  
+🐙 GitHub — https://github.com/Garenafanclub  
 🧠 LeetCode — https://leetcode.com/u/Mayank0121/
 
 ---
